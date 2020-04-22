@@ -1,0 +1,3 @@
+01/08/11 20:07 INFORMATION  AGS now uses a 'Music' folder to read your Music files from. This is to help cut down the clutter in your main game folder. Your existing Music files will now be moved.
+01/08/11 20:07 INFORMATION  AGS now uses a 'Sound' folder to read your Sound files from. This is to help cut down the clutter in your main game folder. Your existing Sound files will now be moved.
+01/08/11 20:07 WARNING      The game may not run properly until the room files are rebuilt. You are strongly advised to backup your game files and use the 'Rebuild All Room Files' option as soon as possible.
