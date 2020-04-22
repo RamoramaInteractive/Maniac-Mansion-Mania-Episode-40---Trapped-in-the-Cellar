@@ -1,4 +1,4 @@
-#Maniac Mansion Mania Episode 40: Trapped in the Cellar
+# Maniac Mansion Mania Episode 40: Trapped in the Cellar
 
 This is my very first self-developed point-and-click adventure game from 2006, which I developed with AGS 2.62 by Chris Jones. Although I knew very little about game development at the age of 15, I was able to make my first steps with AGS with the help of the Adventure Meeting Forum and the Maniac Mansion Mania Community. 
 Because of the mediocre ratings and the bad puzzle design I have an improved version with better puzzle design and a lot of humor in December 2006. My game is not only the first episode of the Maniac Mansion Mania series with Razor as playable character, 
