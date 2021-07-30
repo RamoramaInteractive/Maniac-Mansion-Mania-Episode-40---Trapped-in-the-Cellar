@@ -22,8 +22,10 @@ You can ask questions in the Maniac Mansion Mania Forum here: https://www.maniac
 Don't worry, if you don't anything in German, you have also the possibility to write in English the international subforum. 
 Our community has even fans outside of Germany, like in Italy and Argentina. 
 
-Thanks for Ron Gilbert and Gary Winnick for creating the awesome Maniac Mansion and thanks to LucasFan for creating 
-the fan adventure based Maniac Mansion Mania series. 
+Thanks for Ron Gilbert and Gary Winnick for writing and designing the awesome Maniac Mansion. 
+I also would like to thank David Fox, Aric Wilmunder, Chris Grigg, David Lawrence, Dave Warhol, David Hayes, Carl Mey, Brian Hales, Ron Baldwin, Jenny Sward, Dave Grossman, Tim Schafer, David Stifel, Harrison Fong, Mike Ebert, Noah Falstein and Boris Schneider-Johne.
+
+Thanks to LucasFan for creating the fan adventure based Maniac Mansion Mania series. 
 
 I would like to thank the Maniac Mansion Mania Community for allowing me to fulfill my childhood dream 
 creating my very first adventure game and Chris Jones for Adventure Game Studio.
